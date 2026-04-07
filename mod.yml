@@ -1,0 +1,513 @@
+title: Kingdom Hearts II - Re:Fined | UT/DR Music Pack [Slot 2]
+originalAuthor: DarknitusN
+description: A music pack that replaces most of the KH2 OST with tracks from Undertale and Deltarune Chapter 1, 2, 3 and 4.
+assets:
+
+# === The Soundtrack ===
+
+- name: msg/us/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: en
+- name: msg/fr/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: fr
+- name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: sp
+- name: msg/it/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: it
+- name: msg/gr/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: gr
+
+- name: bgm_3rd/music082.win32.scd
+  package: kh2_first
+  method: copy
+  source:
+  - name: bgm_3rd/music082.win32.scd
+- name: bgm_3rd/music118.win32.scd
+  package: kh2_first
+  method: copy
+  source:
+  - name: bgm_3rd/music118.win32.scd
+- name: bgm_3rd/music119.win32.scd
+  package: kh2_first
+  method: copy
+  source:
+  - name: bgm_3rd/music119.win32.scd
+- name: bgm_3rd/music050.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music050.win32.scd
+- name: bgm_3rd/music051.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music051.win32.scd
+- name: bgm_3rd/music052.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music052.win32.scd
+- name: bgm_3rd/music053.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music053.win32.scd
+- name: bgm_3rd/music054.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music054.win32.scd
+- name: bgm_3rd/music055.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music055.win32.scd
+- name: bgm_3rd/music059.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music059.win32.scd
+- name: bgm_3rd/music060.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music060.win32.scd
+- name: bgm_3rd/music061.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music061.win32.scd
+- name: bgm_3rd/music062.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music062.win32.scd
+- name: bgm_3rd/music063.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music063.win32.scd
+- name: bgm_3rd/music064.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music064.win32.scd
+- name: bgm_3rd/music065.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music065.win32.scd
+- name: bgm_3rd/music066.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music066.win32.scd
+- name: bgm_3rd/music067.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music067.win32.scd
+- name: bgm_3rd/music068.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music068.win32.scd
+- name: bgm_3rd/music069.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music069.win32.scd
+- name: bgm_3rd/music081.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music081.win32.scd
+- name: bgm_3rd/music084.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music084.win32.scd
+- name: bgm_3rd/music085.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music085.win32.scd
+- name: bgm_3rd/music086.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music086.win32.scd
+- name: bgm_3rd/music087.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music087.win32.scd
+- name: bgm_3rd/music088.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music088.win32.scd
+- name: bgm_3rd/music089.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music089.win32.scd
+- name: bgm_3rd/music090.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music090.win32.scd
+- name: bgm_3rd/music091.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music091.win32.scd
+- name: bgm_3rd/music092.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music092.win32.scd
+- name: bgm_3rd/music093.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music093.win32.scd
+- name: bgm_3rd/music094.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music094.win32.scd
+- name: bgm_3rd/music095.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music095.win32.scd
+- name: bgm_3rd/music096.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music096.win32.scd
+- name: bgm_3rd/music097.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music097.win32.scd
+- name: bgm_3rd/music098.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music098.win32.scd
+- name: bgm_3rd/music099.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music099.win32.scd
+- name: bgm_3rd/music100.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music100.win32.scd
+- name: bgm_3rd/music101.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music101.win32.scd
+- name: bgm_3rd/music102.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music102.win32.scd
+- name: bgm_3rd/music103.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music103.win32.scd
+- name: bgm_3rd/music104.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music104.win32.scd
+- name: bgm_3rd/music110.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music110.win32.scd
+- name: bgm_3rd/music111.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music111.win32.scd
+- name: bgm_3rd/music112.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music112.win32.scd
+- name: bgm_3rd/music114.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music114.win32.scd
+- name: bgm_3rd/music115.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music115.win32.scd
+- name: bgm_3rd/music116.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music116.win32.scd
+- name: bgm_3rd/music117.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music117.win32.scd
+- name: bgm_3rd/music120.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music120.win32.scd
+- name: bgm_3rd/music121.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music121.win32.scd
+- name: bgm_3rd/music122.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music122.win32.scd
+- name: bgm_3rd/music123.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music123.win32.scd
+- name: bgm_3rd/music124.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music124.win32.scd
+- name: bgm_3rd/music125.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music125.win32.scd
+- name: bgm_3rd/music127.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music127.win32.scd
+- name: bgm_3rd/music128.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music128.win32.scd
+- name: bgm_3rd/music129.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music129.win32.scd
+- name: bgm_3rd/music131.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music131.win32.scd
+- name: bgm_3rd/music132.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music132.win32.scd
+- name: bgm_3rd/music133.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music133.win32.scd
+- name: bgm_3rd/music134.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music134.win32.scd
+- name: bgm_3rd/music135.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music135.win32.scd
+- name: bgm_3rd/music136.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music136.win32.scd
+- name: bgm_3rd/music137.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music137.win32.scd
+- name: bgm_3rd/music138.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music138.win32.scd
+- name: bgm_3rd/music139.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music139.win32.scd
+- name: bgm_3rd/music141.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music141.win32.scd
+- name: bgm_3rd/music142.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music142.win32.scd
+- name: bgm_3rd/music143.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music143.win32.scd
+- name: bgm_3rd/music144.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music144.win32.scd
+- name: bgm_3rd/music145.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music145.win32.scd
+- name: bgm_3rd/music146.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music146.win32.scd
+- name: bgm_3rd/music148.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music148.win32.scd
+- name: bgm_3rd/music149.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music149.win32.scd
+- name: bgm_3rd/music151.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music151.win32.scd
+- name: bgm_3rd/music152.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music152.win32.scd
+- name: bgm_3rd/music153.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music153.win32.scd
+- name: bgm_3rd/music154.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music154.win32.scd
+- name: bgm_3rd/music155.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music155.win32.scd
+- name: bgm_3rd/music158.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music158.win32.scd
+- name: bgm_3rd/music159.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music159.win32.scd
+- name: bgm_3rd/music164.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music164.win32.scd
+- name: bgm_3rd/music185.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music185.win32.scd
+- name: bgm_3rd/music186.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music186.win32.scd
+- name: bgm_3rd/music187.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music187.win32.scd
+- name: bgm_3rd/music188.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music188.win32.scd
+- name: bgm_3rd/music189.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music189.win32.scd
+- name: bgm_3rd/music190.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music190.win32.scd
+- name: bgm_3rd/music517.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music517.win32.scd
+- name: bgm_3rd/music521.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music521.win32.scd
+- name: bgm_3rd/music530.win32.scd
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: bgm_3rd/music530.win32.scd

@@ -1,0 +1,437 @@
+{
+  "version": 1,
+  "slot": 0,
+  "mod_metadata": {
+    "title": "UT/DR Music Pack",
+    "author": "DarknitusN",
+    "description": "A music pack that replaces most of the KH2 OST with tracks from Undertale and Deltarune Chapter 1, 2, 3 and 4."
+  },
+  "game_metadata": {
+    "name": "UT/DR Music Pack",
+    "description": "",
+    "name_width": null
+  },
+  "sys_languages": null,
+  "tracks": [
+    {
+      "vanilla_filename": "music118.win32.scd",
+      "source_basename": "Lazy Afternoons.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Lazy Afternoons.scd"
+    },
+    {
+      "vanilla_filename": "music119.win32.scd",
+      "source_basename": "Sinister Sundown.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Sinister Sundown.scd"
+    },
+    {
+      "vanilla_filename": "music082.win32.scd",
+      "source_basename": "The Escapade.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\The Escapade.scd"
+    },
+    {
+      "vanilla_filename": "music050.win32.scd",
+      "source_basename": "Dive into the Heart -Destati-.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Dive into the Heart -Destati-.scd"
+    },
+    {
+      "vanilla_filename": "music051.win32.scd",
+      "source_basename": "Fragments of Sorrow.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Fragments of Sorrow.scd"
+    },
+    {
+      "vanilla_filename": "music114.win32.scd",
+      "source_basename": "Tension Rising.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Tension Rising.scd"
+    },
+    {
+      "vanilla_filename": "music091.win32.scd",
+      "source_basename": "Kairi.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Kairi.scd"
+    },
+    {
+      "vanilla_filename": "music099.win32.scd",
+      "source_basename": "Missing You.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Missing You.scd"
+    },
+    {
+      "vanilla_filename": "music151.win32.scd",
+      "source_basename": "The 13th Struggle.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\The 13th Struggle.scd"
+    },
+    {
+      "vanilla_filename": "music146.win32.scd",
+      "source_basename": "Roxas.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Roxas.scd"
+    },
+    {
+      "vanilla_filename": "music088.win32.scd",
+      "source_basename": "Sora.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Sora.scd"
+    },
+    {
+      "vanilla_filename": "music052.win32.scd",
+      "source_basename": "The Afternoon Streets.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\The Afternoon Streets.scd"
+    },
+    {
+      "vanilla_filename": "music053.win32.scd",
+      "source_basename": "Working Together.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Working Together.scd"
+    },
+    {
+      "vanilla_filename": "music089.win32.scd",
+      "source_basename": "Friends in my Heart.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Friends in my Heart.scd"
+    },
+    {
+      "vanilla_filename": "music133.win32.scd",
+      "source_basename": "Magical Mystery.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Magical Mystery.scd"
+    },
+    {
+      "vanilla_filename": "music152.win32.scd",
+      "source_basename": "Reviving Hollow Bastion.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Reviving Hollow Bastion.scd"
+    },
+    {
+      "vanilla_filename": "music153.win32.scd",
+      "source_basename": "Scherzo de Notte.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Scherzo de Notte.scd"
+    },
+    {
+      "vanilla_filename": "music097.win32.scd",
+      "source_basename": "Laughter and Merriment.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Laughter and Merriment.scd"
+    },
+    {
+      "vanilla_filename": "music121.win32.scd",
+      "source_basename": "Desire for all that is Lost.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Desire for all that is Lost.scd"
+    },
+    {
+      "vanilla_filename": "music094.win32.scd",
+      "source_basename": "Organization XIII.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Organization XIII.scd"
+    },
+    {
+      "vanilla_filename": "music139.win32.scd",
+      "source_basename": "Gearing Up.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Gearing Up.scd"
+    },
+    {
+      "vanilla_filename": "music138.win32.scd",
+      "source_basename": "Shipmeister\u0027s Shanty.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Shipmeister\u0027s Shanty.scd"
+    },
+    {
+      "vanilla_filename": "music148.win32.scd",
+      "source_basename": "Blast Off.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Blast Off.scd"
+    },
+    {
+      "vanilla_filename": "music142.win32.scd",
+      "source_basename": "Crossing the Finish Line.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Crossing the Finish Line.scd"
+    },
+    {
+      "vanilla_filename": "music101.win32.scd",
+      "source_basename": "Waltz of the Damned.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Waltz of the Damned.scd"
+    },
+    {
+      "vanilla_filename": "music104.win32.scd",
+      "source_basename": "Dance of the Daring.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Dance of the Daring.scd"
+    },
+    {
+      "vanilla_filename": "music098.win32.scd",
+      "source_basename": "Hesitation.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Hesitation.scd"
+    },
+    {
+      "vanilla_filename": "music131.win32.scd",
+      "source_basename": "Dance to the Death.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Dance to the Death.scd"
+    },
+    {
+      "vanilla_filename": "music116.win32.scd",
+      "source_basename": "The Home of Dragons.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\The Home of Dragons.scd"
+    },
+    {
+      "vanilla_filename": "music112.win32.scd",
+      "source_basename": "Field of Honor, Happy Holidays.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Field of Honor, Happy Holidays.scd"
+    },
+    {
+      "vanilla_filename": "music095.win32.scd",
+      "source_basename": "Apprehension.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Apprehension.scd"
+    },
+    {
+      "vanilla_filename": "music145.win32.scd",
+      "source_basename": "Vim and Vigor.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Vim and Vigor.scd"
+    },
+    {
+      "vanilla_filename": "music103.win32.scd",
+      "source_basename": "Olympus Colliseum.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Olympus Colliseum.scd"
+    },
+    {
+      "vanilla_filename": "music100.win32.scd",
+      "source_basename": "The Underworld.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\The Underworld.scd"
+    },
+    {
+      "vanilla_filename": "music102.win32.scd",
+      "source_basename": "What Lies Beneath.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\What Lies Beneath.scd"
+    },
+    {
+      "vanilla_filename": "music093.win32.scd",
+      "source_basename": "Villains of a Sort.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Villains of a Sort.scd"
+    },
+    {
+      "vanilla_filename": "music117.win32.scd",
+      "source_basename": "Rowdy Rumble.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Rowdy Rumble.scd"
+    },
+    {
+      "vanilla_filename": "music143.win32.scd",
+      "source_basename": "Mickey Mouse Club March.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Mickey Mouse Club March.scd"
+    },
+    {
+      "vanilla_filename": "music092.win32.scd",
+      "source_basename": "A Walk in Andante.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\A Walk in Andante.scd"
+    },
+    {
+      "vanilla_filename": "music189.win32.scd",
+      "source_basename": "Monochrome Dreams.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Monochrome Dreams.scd"
+    },
+    {
+      "vanilla_filename": "music190.win32.scd",
+      "source_basename": "Old Friends, Old Rivals.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Old Friends, Old Rivals.scd"
+    },
+    {
+      "vanilla_filename": "music141.win32.scd",
+      "source_basename": "Winnie the Pooh.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Winnie the Pooh.scd"
+    },
+    {
+      "vanilla_filename": "music159.win32.scd",
+      "source_basename": "Bounce-o-rama sped up.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Bounce-o-rama sped up.scd"
+    },
+    {
+      "vanilla_filename": "music530.win32.scd",
+      "source_basename": "He\u0027s a pirate.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\He\u0027s a pirate.scd"
+    },
+    {
+      "vanilla_filename": "music115.win32.scd",
+      "source_basename": "The Corrupted.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\The Corrupted.scd"
+    },
+    {
+      "vanilla_filename": "music127.win32.scd",
+      "source_basename": "A day in Agrabah.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\A day in Agrabah.scd"
+    },
+    {
+      "vanilla_filename": "music128.win32.scd",
+      "source_basename": "Arabian Dream.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Arabian Dream.scd"
+    },
+    {
+      "vanilla_filename": "music084.win32.scd",
+      "source_basename": "Arabian Daydream.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Arabian Daydream.scd"
+    },
+    {
+      "vanilla_filename": "music144.win32.scd",
+      "source_basename": "This is Halloween.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\This is Halloween.scd"
+    },
+    {
+      "vanilla_filename": "music149.win32.scd",
+      "source_basename": "Spooks of Halloween Town.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Spooks of Halloween Town.scd"
+    },
+    {
+      "vanilla_filename": "music186.win32.scd",
+      "source_basename": "Adventures in the Savannah.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Adventures in the Savannah.scd"
+    },
+    {
+      "vanilla_filename": "music187.win32.scd",
+      "source_basename": "Savannah Pride.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Savannah Pride.scd"
+    },
+    {
+      "vanilla_filename": "music110.win32.scd",
+      "source_basename": "The Encounter.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\The Encounter.scd"
+    },
+    {
+      "vanilla_filename": "music135.win32.scd",
+      "source_basename": "Space Paranoids.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Space Paranoids.scd"
+    },
+    {
+      "vanilla_filename": "music136.win32.scd",
+      "source_basename": "Byte Bashing.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Byte Bashing.scd"
+    },
+    {
+      "vanilla_filename": "music085.win32.scd",
+      "source_basename": "Byte Striking.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Byte Striking.scd"
+    },
+    {
+      "vanilla_filename": "music111.win32.scd",
+      "source_basename": "Sinister Shadows.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Sinister Shadows.scd"
+    },
+    {
+      "vanilla_filename": "music185.win32.scd",
+      "source_basename": "The 13th Dilemma.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\The 13th Dilemma.scd"
+    },
+    {
+      "vanilla_filename": "music188.win32.scd",
+      "source_basename": "One Winged Angel.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\One Winged Angel.scd"
+    },
+    {
+      "vanilla_filename": "music054.win32.scd",
+      "source_basename": "Sacred Moon.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Sacred Moon.scd"
+    },
+    {
+      "vanilla_filename": "music055.win32.scd",
+      "source_basename": "Deep Drive.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Deep Drive.scd"
+    },
+    {
+      "vanilla_filename": "music090.win32.scd",
+      "source_basename": "Riku.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Riku.scd"
+    },
+    {
+      "vanilla_filename": "music096.win32.scd",
+      "source_basename": "Courage.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Courage.scd"
+    },
+    {
+      "vanilla_filename": "music087.win32.scd",
+      "source_basename": "Disappeared.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Disappeared.scd"
+    },
+    {
+      "vanilla_filename": "music059.win32.scd",
+      "source_basename": "A Fight to the Death.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\A Fight to the Death.scd"
+    },
+    {
+      "vanilla_filename": "music060.win32.scd",
+      "source_basename": "Darkness of the Unknown.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Darkness of the Unknown.scd"
+    },
+    {
+      "vanilla_filename": "music061.win32.scd",
+      "source_basename": "Darkness of the Unknown.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Darkness of the Unknown.scd"
+    },
+    {
+      "vanilla_filename": "music062.win32.scd",
+      "source_basename": "Darkness of the Unknown.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Darkness of the Unknown.scd"
+    },
+    {
+      "vanilla_filename": "music063.win32.scd",
+      "source_basename": "The 13th Reflection.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\The 13th Reflection.scd"
+    },
+    {
+      "vanilla_filename": "music064.win32.scd",
+      "source_basename": "What a Surprise.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\What a Surprise.scd"
+    },
+    {
+      "vanilla_filename": "music065.win32.scd",
+      "source_basename": "Field of Honor, Happy Holidays.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Field of Honor, Happy Holidays.scd"
+    },
+    {
+      "vanilla_filename": "music066.win32.scd",
+      "source_basename": "The Other Promise.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\The Other Promise.scd"
+    },
+    {
+      "vanilla_filename": "music067.win32.scd",
+      "source_basename": "Rage Awakened.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Rage Awakened.scd"
+    },
+    {
+      "vanilla_filename": "music068.win32.scd",
+      "source_basename": "Cavern of Rememberance.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Cavern of Rememberance.scd"
+    },
+    {
+      "vanilla_filename": "music069.win32.scd",
+      "source_basename": "Spooks of Halloween Town.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Spooks of Halloween Town.scd"
+    },
+    {
+      "vanilla_filename": "music081.win32.scd",
+      "source_basename": "Beneath the Ground.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Beneath the Ground.scd"
+    },
+    {
+      "vanilla_filename": "music086.win32.scd",
+      "source_basename": "Spooks of Halloween Town.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Spooks of Halloween Town.scd"
+    },
+    {
+      "vanilla_filename": "music134.win32.scd",
+      "source_basename": "Working Together.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Working Together.scd"
+    },
+    {
+      "vanilla_filename": "music120.win32.scd",
+      "source_basename": "Beneath the Ground.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Beneath the Ground.scd"
+    },
+    {
+      "vanilla_filename": "music517.win32.scd",
+      "source_basename": "Rowdy Rumble.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Rowdy Rumble.scd"
+    },
+    {
+      "vanilla_filename": "music521.win32.scd",
+      "source_basename": "Desire for all that is Lost.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Desire for all that is Lost.scd"
+    },
+    {
+      "vanilla_filename": "music158.win32.scd",
+      "source_basename": "Bounce-o-rama.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Bounce-o-rama.scd"
+    },
+    {
+      "vanilla_filename": "music164.win32.scd",
+      "source_basename": "Road to a Hero.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\Road to a Hero.scd"
+    },
+    {
+      "vanilla_filename": "music155.win32.scd",
+      "source_basename": "He\u0027s a pirate.scd",
+      "source_path": "C:\\Users\\azzyp\\Downloads\\music thingy\\Normalized and looped SCDs\\He\u0027s a pirate.scd"
+    }
+  ]
+}
